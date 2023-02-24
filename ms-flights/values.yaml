@@ -14,7 +14,7 @@ MYSQL_HOST: rds.staging.msur-vpc.com
 MYSQL_USER: microservices
 MYSQL_DATABASE: microservices_db
 MYSQLSecretName: mysql
-MYSQLSecretKey: Phoenix10
+MYSQLSecretKey: microservices_pw
               
 imagePullSecrets: []
 nameOverride: ""
